@@ -1,0 +1,195 @@
+@charset "utf-8";
+body {
+    background-color: rgba(156,175,234,1.00);
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: rgba(120,102,116,1.00);
+}
+#header {
+}
+nav {
+    background-image: -webkit-linear-gradient(270deg,rgba(53,124,124,1.00) 0%,rgba(196,235,237,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(53,124,124,1.00) 0%,rgba(196,235,237,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(53,124,124,1.00) 0%,rgba(196,235,237,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(53,124,124,1.00) 0%,rgba(196,235,237,1.00) 100%);
+}
+
+
+#header .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    color: rgba(255,255,255,1.00);
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bolder;
+    font-size: 2.5rem;
+}
+#header .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand:hover{
+    color: rgba(154,149,222,1.00);
+     
+
+}
+
+
+.navbar-nav.mr-auto .nav-item.active .nav-link:hover{
+    color: rgba(154,149,222,1.00);
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    min-height: 0px;
+    font-variant: normal;
+    font-weight: bolder;
+    font-size:1.5rem;
+    font-style: normal;
+}
+.navbar-nav.mr-auto .nav-item.dropdown .nav-link.dropdown-toggle:hover{
+    color: rgba(154,149,222,1.00);
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    min-height: 0px;
+    font-variant: normal;
+    font-weight: bolder;
+    font-size:1.5rem;
+    font-style: normal;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: rgba(255,255,255,1.00);
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-weight: bolder;
+}
+navbar-dark .navbar-nav .nav-link:hover {
+    color: rgba(118,95,205,0.75);
+        font-size:1.5rem;
+
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: rgba(255,255,255,1.00);
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    color: rgba(153,136,219,0.75);
+
+}
+
+.navbar-light .navbar-brand {
+    color: rgba(172,159,221,0.75);
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-variant: normal;
+    font-style: normal;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+
+.navbar-light.navbar-brand:hover{
+    color: rgba(65,69,177,1.00);
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-variant: normal;
+    font-size: 3rem;
+    }
+#header .LOGO {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 90%;
+}
+ #video {  margin-bottom:30px;
+}
+
+#MAIN .RIGHTSECTION {
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-left: 1.5%;
+    margin-right: 20px;
+    clear: right;
+    width: 60%;
+    color: rgba(243,243,243,1.00);
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1rem;
+    text-align: left;
+    background-image: -webkit-linear-gradient(270deg,rgba(172,187,199,0.11) 2.70%,rgba(69,115,152,0.85) 2.70%,rgba(69,115,152,0.85) 18.86%,rgba(91,114,133,0.75) 33.37%,rgba(94,119,140,0.48) 59.08%,rgba(198,226,235,1.00) 97.62%,rgba(211,227,227,0.79) 97.62%,rgba(204,219,218,0.74) 99.59%);
+    background-image: -moz-linear-gradient(270deg,rgba(172,187,199,0.11) 2.70%,rgba(69,115,152,0.85) 2.70%,rgba(69,115,152,0.85) 18.86%,rgba(91,114,133,0.75) 33.37%,rgba(94,119,140,0.48) 59.08%,rgba(198,226,235,1.00) 97.62%,rgba(211,227,227,0.79) 97.62%,rgba(204,219,218,0.74) 99.59%);
+    background-image: -o-linear-gradient(270deg,rgba(172,187,199,0.11) 2.70%,rgba(69,115,152,0.85) 2.70%,rgba(69,115,152,0.85) 18.86%,rgba(91,114,133,0.75) 33.37%,rgba(94,119,140,0.48) 59.08%,rgba(198,226,235,1.00) 97.62%,rgba(211,227,227,0.79) 97.62%,rgba(204,219,218,0.74) 99.59%);
+    background-image: linear-gradient(180deg,rgba(172,187,199,0.11) 2.70%,rgba(69,115,152,0.85) 2.70%,rgba(69,115,152,0.85) 18.86%,rgba(91,114,133,0.75) 33.37%,rgba(94,119,140,0.48) 59.08%,rgba(198,226,235,1.00) 97.62%,rgba(211,227,227,0.79) 97.62%,rgba(204,219,218,0.74) 99.59%);
+    padding-top: 2%;
+    padding-bottom: 40px;
+    border-radius: 30px;
+    margin-top: 3%;
+    background-color: rgba(247,247,247,0.00);
+    float: right;
+}
+#MAIN #LEFTSECTION {
+    width: 30%;
+    background-image: -webkit-linear-gradient(270deg,rgba(58,97,129,0.72) 0%,rgba(112,137,160,1.00) 70.67%,rgba(243,234,234,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(58,97,129,0.72) 0%,rgba(112,137,160,1.00) 70.67%,rgba(243,234,234,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(58,97,129,0.72) 0%,rgba(112,137,160,1.00) 70.67%,rgba(243,234,234,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(58,97,129,0.72) 0%,rgba(112,137,160,1.00) 70.67%,rgba(243,234,234,1.00) 100%);
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #853C3D;
+    font-style: normal;
+    font-weight: bold;
+    font-size: small;
+}
+
+article p a {
+}
+body article p {
+}
+article p a {
+}
+
+
+
+#MAIN #LEFTSECTION h1 {
+    color: rgba(255,255,255,1.00);
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1rem;
+}
+body {
+}
+body {
+    width: auto;
+}
+
+ label {
+    width: 70%;
+    color: rgba(243,167,54,1.00);
+}
+ input {width:70%;}
+SELECT{
+    width: 50%;
+    color: rgba(180,139,19,1.00);
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+textarea {width: 100%;}
+#MAIN #LEFTSECTION h1 {
+}
+
+
+@media (max-width:750px){
+
+body {
+    background-image: -webkit-linear-gradient(270deg,rgba(31,92,145,0.59) 38.55%,rgba(44,77,180,1.00) 100%), url(../images/banner.jpg);
+    background-image: -moz-linear-gradient(270deg,rgba(31,92,145,0.59) 38.55%,rgba(44,77,180,1.00) 100%), url(../images/banner.jpg);
+    background-image: -o-linear-gradient(270deg,rgba(31,92,145,0.59) 38.55%,rgba(44,77,180,1.00) 100%), url(../images/banner.jpg);
+    background-image: linear-gradient(180deg,rgba(31,92,145,0.59) 38.55%,rgba(44,77,180,1.00) 100%), url(../images/banner.jpg);
+    clear: none;
+    width: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+}
